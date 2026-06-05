@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Lâm%20Tấn%20Thành&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**T-Hank2712/T-Hank2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- INTRO -->
+<h1 align="center">Hi 👋, I'm a Mobile & AI Developer</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Building AI-powered applications • 📱 iOS Developer • 🤖 AI Engineer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🎓 Information Technology Student  
+- 🍎 Focus on **AI Nutrition Analysis App (NutriQuor)**  
+- 📱 Love building iOS apps with SwiftUI  
+- 🤖 Interested in OCR, KIE, Knowledge Graph  
+- ⚡ Always learning new tech
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=swift,python,cs,dotnet,postgres,docker,git,github,linux,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T-Hank2712&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Hank2712&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=T-Hank2712&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🍎 NutriQuor – AI Nutrition Analysis App
+
+- 📷 OCR scan food labels  
+- 🧠 KIE (Key Information Extraction)  
+- 🧬 Knowledge Graph (Neo4j)  
+- ⚕️ Personalized health recommendation  
+
+---
+
+## 📈 What I'm working on
+
+```text
+✔ Mobile App Development (SwiftUI)
+✔ AI Integration (OCR + KIE)
+✔ Knowledge Graph for nutrition data
+✔ Backend APIs (.NET Core)
