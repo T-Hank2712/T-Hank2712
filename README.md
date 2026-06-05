@@ -4,7 +4,7 @@
 </p>
 
 <!-- INTRO -->
-<h1 align="center">Hi 👋, I'm a Mobile & AI Developer</h1>
+<h1 align="center">Hi 👋, I'm a Software Developer</h1>
 
 <p align="center">
   🚀 Building AI-powered applications • 📱 iOS Developer • 🤖 AI Engineer
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,python,cs,dotnet,postgres,docker,git,github,vscode,sqlserver" />
+<img src="https://skillicons.dev/icons?i=swift,python,cs,dotnet,postgres,docker,git,github,vscode,xcode" />
 
 </p>
 
