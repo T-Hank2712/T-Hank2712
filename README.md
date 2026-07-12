@@ -27,10 +27,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,redis,mongodb,docker,aws,git,github,postman,visualstudio,vscode" />
 </p>
 
-<p align="center">
-  C# • ASP.NET Core • Entity Framework Core • SQL Server • PostgreSQL • Neo4j • Redis • Docker • AWS
-</p>
-
 ---
 
 ## GitHub Stats
