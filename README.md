@@ -1,5 +1,4 @@
 <!-- HEADER BANNER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:2c5364&height=200&section=header&text=Lâm%20Tấn%20Thành&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -7,25 +6,29 @@
 <h1 align="center">Hi 👋, I'm a Backend Developer</h1>
 
 <p align="center">
-  Building secure, maintainable and scalable backend systems with C# and ASP.NET Core.
+  .NET Backend Development • RESTful APIs • Database Systems
 </p>
 
 ---
 
 ## About Me
 
-* Software Engineering Student
-* Focused on .NET Backend Development
-* Interested in API design, system architecture and database optimization
-* Experienced with C#, ASP.NET Core, SQL Server, Redis, Docker and Neo4j
-* Continuously improving clean code and software engineering practices
+- Software Engineering student
+- Focused on backend development with **C# and ASP.NET Core**
+- Experienced in RESTful API design and multi-layered architecture
+- Interested in clean code, system performance and scalable backend systems
+- Familiar with authentication, caching, containerization and cloud services
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,redis,docker,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,redis,mongodb,docker,aws,git,github,postman,visualstudio,vscode" />
+</p>
+
+<p align="center">
+  C# • ASP.NET Core • Entity Framework Core • SQL Server • PostgreSQL • Neo4j • Redis • Docker • AWS
 </p>
 
 ---
@@ -40,7 +43,7 @@
 ---
 
 <p align="center">
-  <i>Focused on building reliable backend systems with modern .NET technologies.</i>
+  <i>Building secure, maintainable and high-performance backend systems.</i>
 </p>
 
 <p align="center">
