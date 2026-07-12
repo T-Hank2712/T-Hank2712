@@ -24,16 +24,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,redis,mongodb,docker,aws,git,github,postman,visualstudio,vscode" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T-Hank2712&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Hank2712&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,neo4j,postgres,redis,mongodb,docker,aws,git" />
 </p>
 
 ---
