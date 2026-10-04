@@ -34,6 +34,11 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,kafka,redis,neo4j,docker&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
