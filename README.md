@@ -29,65 +29,13 @@
 ---
 
 ## ⚙️ Tech Stack
-
-### Languages & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,kafka,docker" />
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Worker_Services-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
-### Databases & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
-</p>
-
-### Messaging & Distributed Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event--Driven_Architecture-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CQRS-6C63FF?style=for-the-badge" />
-</p>
-
-### Infrastructure & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,github" />
-</p>
-
-### Security & API
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Key_Authentication-2F80ED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-## 🧠 Architecture & Engineering
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design_Patterns-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CQRS-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Event--Driven_Architecture-EF2D5E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
 </p>
 
 ---
