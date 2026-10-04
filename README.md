@@ -57,7 +57,7 @@
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Hank2712&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Hank2712&layout=compact&hide_border=true&theme=transparent&v=1"
   />
 </p>
 
