@@ -31,7 +31,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,kafka,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,kafka,docker,postman,aws&theme=dark" />
 </p>
 
 <p align="center">
