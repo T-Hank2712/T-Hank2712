@@ -35,9 +35,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
   &nbsp;&nbsp;
