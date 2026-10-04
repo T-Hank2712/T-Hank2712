@@ -31,13 +31,15 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,kafka,redis,neo4j,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,kafka,docker&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
 </p>
